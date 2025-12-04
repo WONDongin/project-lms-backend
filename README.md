@@ -288,15 +288,15 @@ public class DBConnection { //DBConnection 클래스는 객체 불가 => 생성�
 ### 🔍 화면 예시 (Screenshots)
 
 #### MainLMS (메인 페이지-공통)
-
+<img src="./docs/screenshots/login.png" width="600"/>
 <br>
 
 #### DeptLMS (강의관리-교수)
-
+<img src="./docs/screenshots/admin-dashboard.png" width="600"/>
 <br>
 
 #### ClassLMS (질문 게시판/과제 제출-학생)
-
+<img src="./docs/screenshots/user-list.png" width="600"/>
 
 <Br>
 
