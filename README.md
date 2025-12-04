@@ -287,16 +287,17 @@ public class DBConnection { //DBConnection 클래스는 객체 불가 => 생성�
 
 ### 🔍 화면 예시 (Screenshots)
 
-#### MainLMS (메인 페이지-공통)
-<img src="./docs/screenshots/login.png" width="600"/>
+#### MainLMS (메인 페이지 / 공지사항)
+<img src="./docs/screenshots/mainLms.png" />
+<img src="./docs/screenshots/notion.png" />
 <br>
 
-#### DeptLMS (강의관리-교수)
-<img src="./docs/screenshots/admin-dashboard.png" width="600"/>
+#### DeptLMS (학과 게시판 / 강의관리)
+<img src="./docs/screenshots/deptLMS.png" />
 <br>
 
-#### ClassLMS (질문 게시판/과제 제출-학생)
-<img src="./docs/screenshots/user-list.png" width="600"/>
+#### ClassLMS (과제/학점 관리)
+<img src="./docs/screenshots/classLMS.png" />
 
 <Br>
 
