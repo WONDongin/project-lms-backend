@@ -33,6 +33,8 @@ JSP Model 2(MVC) 구조를 기반으로 구현한 팀 프로젝트입니다. <br
 
 📂 [MainLMSController.java](./src/main/java/controllers/MainLMSController.java) · [main.jsp](./src/main/webapp/views/mainLMS/main.jsp)
 
+<br>
+
 ### 2. 학사일정 관리 및 알림
 
 학사일정 등록·수정·삭제와 사용자 알림을 연결했습니다.
@@ -51,6 +53,8 @@ JSP Model 2(MVC) 구조를 기반으로 구현한 팀 프로젝트입니다. <br
 
 📂 [MainLMSController.java](./src/main/java/controllers/MainLMSController.java) · [UserController.java](./src/main/java/controllers/UserController.java) · [UserMapper.java](./src/main/java/models/mappers/UserMapper.java)
 
+<br>
+
 ### 3. 강의계획서 조회
 
 - 강의번호·분반·연도·학기 조건으로 강의 정보 조회
@@ -58,6 +62,8 @@ JSP Model 2(MVC) 구조를 기반으로 구현한 팀 프로젝트입니다. <br
 - MyBatis Mapper에 조회 SQL을 분리하고 JSP에 결과 표시
 
 📂 [Class1Dao.java](./src/main/java/models/classes/Class1Dao.java) · [Class1Mapper.java](./src/main/java/models/mappers/Class1Mapper.java) · [classInfo.jsp](./src/main/webapp/views/classLMS/classInfo.jsp)
+
+<br>
 
 ### 4. 공통 레이아웃 및 과제 화면
 
